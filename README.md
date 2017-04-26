@@ -1,3 +1,17 @@
 # Privacy Guide
 
-This is a guide to help people stay anonymous on the internet. New sections are going to be added to the guide over time.
+[Introduction](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki)
+
+[Operating Systems](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/Operating-Systems)
+
+[Browsers](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/Browsers)
+
+[Browser extensions](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/Addons)
+
+[Browser settings](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/Browser-settings)
+
+[Virtual Private Networks FAQ](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/VPN)
+
+[Crypto FAQ](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/Crypto-FAQ)
+
+[Useful Links](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/Useful-links)
