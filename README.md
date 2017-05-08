@@ -10,6 +10,8 @@
 
 [Browser settings](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/Browser-settings)
 
+[Instant Messaging](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/Instant-Messaging)
+
 [Virtual Private Networks FAQ](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/VPN)
 
 [Crypto FAQ](https://github.com/Karegohan-And-Kamehameha/privacyguide/wiki/Crypto-FAQ)
